@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jk-drako
+- 👀 I’m interested in making everything around me work with the clap of my hands or a keyword. Or a cool game.
+- 🌱 I’m currently learning Python.
